@@ -1,4 +1,4 @@
-package com.example.shesafe
+package net.shesafe.example
 
 import org.junit.Test
 

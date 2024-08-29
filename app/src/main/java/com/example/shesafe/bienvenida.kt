@@ -1,4 +1,4 @@
-package com.example.shesafe
+package net.shesafe.example
 
 class bienvenida {
     fun mensaje(name: String): String {

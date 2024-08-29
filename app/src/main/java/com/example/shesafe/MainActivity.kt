@@ -1,4 +1,4 @@
-package com.example.shesafe
+package net.shesafe.example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
